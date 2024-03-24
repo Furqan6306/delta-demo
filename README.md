@@ -1,2 +1,2 @@
 # delta-demo
-For Gitub Practice
+For Gitub Practice.
